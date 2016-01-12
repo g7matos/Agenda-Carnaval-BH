@@ -129,3 +129,7 @@ td {
 .multi-days a:hover { color: #000; }
 
 .no-event { color: #aaa; }
+
+.envie {
+  color: red;
+}
